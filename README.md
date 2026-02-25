@@ -7,12 +7,7 @@
 </p>
 
 ---
-
-<h1 align="center">Hi 👋, I'm Gopal Jagtap</h1>
-<h3 align="center">Senior Software Test Engineer | Automation Specialist</h3>
-
 ---
-
 ### 🚀 About Me
 
 - 🧪 5+ Years of experience in Software Testing  
