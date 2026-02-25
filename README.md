@@ -1,19 +1,26 @@
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Gopal%20Jagtap&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<!-- 🔵 Blue Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1E3A8A,100:3B82F6&height=200&section=header&text=Welcome!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<!-- 🔵 Typing Animation Section -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=3B82F6&center=true&vCenter=true&width=900&height=80&duration=4000&lines=Namaste!+I'm+Prem+Thakare+🤖;Hello!+I'm+Gopal+Jagtap+🤖;Software+Test+Engineer;Working+at+Bajaj+Finserv+Pvt.+Ltd.+Viman+Nagar,+Pune;5+Years+of+Experience+in+Software+Testing" />
+</p>
+
+---
 
 <h1 align="center">Hi 👋, I'm Gopal Jagtap</h1>
-<h3 align="center">Senior Automation Test Engineer | 5+ Years Experience</h3>
+<h3 align="center">Senior Software Test Engineer | Automation Specialist</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Automation Test Engineer with 5+ Years Experience  
-- 🧪 Expert in Selenium WebDriver & TestNG  
-- 💻 Strong in Java, Maven, POM Framework  
-- 🔍 API Testing – Postman & RestAssured  
-- 🏦 Domain Knowledge – Banking & Finance  
-- 🚀 Passionate about Quality & Scalable Automation Frameworks  
+- 🧪 5+ Years of experience in Software Testing  
+- 💻 Expertise in Selenium WebDriver, TestNG & Java  
+- 🔍 Strong knowledge in API Testing (Postman & RestAssured)  
+- 🏦 Domain Experience in Banking & Finance  
+- 📍 Currently working at **Bajaj Finserv Pvt. Ltd., Viman Nagar, Pune**  
+- 🚀 Passionate about building scalable automation frameworks  
 
 ---
 
@@ -49,4 +56,5 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+<!-- 🔵 Blue Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F2027&height=120&section=footer"/>
