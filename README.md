@@ -5,6 +5,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=3B82F6&center=true&vCenter=true&width=900&height=80&duration=4000&lines=+Hello!+I'm+Gopal+Jagtap+🤖;Software+Test+Engineer;Working+at+Bajaj+Finserv+Pvt.+Ltd.+Viman+Nagar,+Pune;5+Years+of+Experience+in+Software+Testing" />
 </p>
+
+
 ---
 ### 🚀 About Me
 
