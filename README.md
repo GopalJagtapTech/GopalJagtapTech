@@ -18,7 +18,8 @@
 - 🚀 Passionate about building scalable automation frameworks  
 
 ---
-
+Socials 🌐 :
+Instagram logo Gmail logo LinkedIn logo Twitter logo
 ### 🛠️ Tech Stack
 
 <p align="center">
