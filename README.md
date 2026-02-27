@@ -1,5 +1,5 @@
 <!-- 🔵 Blue Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1E3A8A,100:3B82F6&height=200&section=header&text=Welcome!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1E3A8A,100:3B82F6&height=200&section=header&text=" />
 
 <!-- 🔵 Typing Animation Section -->
 <p align="center">
