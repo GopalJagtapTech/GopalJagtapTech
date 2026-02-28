@@ -6,8 +6,9 @@
 </p>
 
 ---
-
-## Aspiring Senior Software Test Engineer from India 🇮🇳
+<p align="center">
+  <b><i>Aspiring Senior Software Test Engineer from India 🇮🇳</i></b>
+</p>
 
 ---
 
