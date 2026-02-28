@@ -7,10 +7,7 @@
 
 ---
 
-<p align="center">
-  <b><i>Aspiring Senior Software Test Engineer from India 🇮🇳</i></b>
-</p>
-
+<h3 align="center"><b><i>Aspiring Senior Software Test Engineer from India 🇮🇳</i></b></h3>
 
 ## 👨‍💻 About Me
 
