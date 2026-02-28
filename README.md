@@ -42,69 +42,29 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center"><a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="50"/></a></td>
+<td align="center"><a href="https://www.selenium.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" height="50"/></a></td>
+<td align="center"><a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven" height="50"/></a></td>
+<td align="center"><a href="https://testng.org/" target="_blank"><img src="https://skillicons.dev/icons?i=testng" height="50"/></a></td>
+<td align="center"><a href="https://cucumber.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cucumber" height="50"/></a></td>
+<td align="center"><a href="https://karatelabs.io/" target="_blank"><img src="https://cdn.simpleicons.org/karate/FF0000" height="50"/></a></td>
+<td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="50"/></a></td>
+<td align="center"><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a></td>
+</tr>
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-</a>
-
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=selenium" height="50"/>
-</a>
-
-<a href="https://maven.apache.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=maven" height="50"/>
-</a>
-
-<a href="https://testng.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=testng" height="50"/>
-</a>
-
-<a href="https://cucumber.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cucumber" height="50"/>
-</a>
-
-<a href="https://karatelabs.io/" target="_blank">
-<img src="https://cdn.simpleicons.org/karate/FF0000" height="50"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://www.jenkins.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</a>
-
-<a href="https://azure.microsoft.com/en-in/products/devops/" target="_blank">
-<img src="https://skillicons.dev/icons?i=azure" height="50"/>
-</a>
-
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-<img src="https://cdn.simpleicons.org/jira/0052CC" height="50"/>
-</a>
-
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50"/>
-</a>
-
-<a href="https://notepad-plus-plus.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" height="50"/>
-</a>
-
-<a href="https://www.eclipse.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=eclipse" height="50"/>
-</a>
-
-</p>
+<tr>
+<td align="center"><a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" height="50"/></a></td>
+<td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="50"/></a></td>
+<td align="center"><a href="https://azure.microsoft.com/en-in/products/devops/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="50"/></a></td>
+<td align="center"><a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.simpleicons.org/jira/0052CC" height="50"/></a></td>
+<td align="center"><a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50"/></a></td>
+<td align="center"><a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" height="50"/></a></td>
+<td align="center"><a href="https://www.eclipse.org/" target="_blank"><img src="https://skillicons.dev/icons?i=eclipse" height="50"/></a></td>
+<td></td>
+</tr>
+</table>
 
 
 ## 📂 Featured Project
