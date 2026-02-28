@@ -85,4 +85,4 @@
 
 ---
 <!-- 🔵 Footer Wave with Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=FFFFFF&color=0000FF&text=Thank%20You%20for%20Visiting!&section=footer&animation=twinkling&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=000000&color=0000FF&text=Thank%20You%20for%20Visiting!&section=footer&animation=twinkling&textBg=false"/>
