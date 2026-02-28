@@ -4,12 +4,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Namaste,+I'm+Gopal+Jagtap+🤖;Senior+Software+Test+Engineer;5%2B+Years+Experience+in+Manual+%26+Automation+Testing;Banking+%26+NBFC+Domain+Expert;Welcome+to+My+GitHub+Profile!" />
 </p>
+---
 
 <p align="center">
   <b><i>Aspiring Senior Software Test Engineer from India 🇮🇳</i></b>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
