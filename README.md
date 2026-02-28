@@ -43,7 +43,82 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,maven,testng,git,github,postman,idea,jenkins,mysql" />
+
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+
+  <!-- Selenium -->
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=selenium" />
+  </a>
+
+  <!-- Maven -->
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=maven" />
+  </a>
+
+  <!-- TestNG -->
+  <a href="https://testng.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=testng" />
+  </a>
+
+  <!-- Cucumber -->
+  <a href="https://cucumber.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cucumber" />
+  </a>
+
+  <!-- Karate -->
+  <a href="https://karatelabs.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=karate" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jenkins" />
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+
+  <!-- Azure DevOps -->
+  <a href="https://azure.microsoft.com/en-in/products/devops/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.simpleicons.org/jira/0052CC" height="48"/>
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48"/>
+  </a>
+
+  <!-- Notepad++ -->
+  <a href="https://notepad-plus-plus.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" height="48"/>
+  </a>
+
+  <!-- Eclipse -->
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=eclipse" />
+  </a>
+
 </p>
 
 ---
