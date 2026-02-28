@@ -28,16 +28,28 @@
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+<p align="center">
+  <a href="https://instagram.com/gopajagtap17">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:gopaljagtap43@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/gopal-jagtap-ゴパール-ジャグタップ-39641b24b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,selenium,maven,testng,git,github,postman,idea,jenkins,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,selenium,maven,testng,git,github,postman,idea,jenkins,mysql" />
+</p>
 
 ---
 
