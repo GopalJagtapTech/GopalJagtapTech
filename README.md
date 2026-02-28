@@ -44,47 +44,47 @@
 
 <p align="center">
 
-<a href="https://www.java.com/" target="_blank">
+<a href="https://www.java.com/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=java" height="50"/>
 </a>
 
-<a href="https://www.selenium.dev/" target="_blank">
+<a href="https://www.selenium.dev/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=selenium" height="50"/>
 </a>
 
-<a href="https://maven.apache.org/" target="_blank">
+<a href="https://maven.apache.org/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=maven" height="50"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://git-scm.com/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.jenkins.io/" target="_blank">
+<a href="https://www.jenkins.io/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </a>
 
-<a href="https://azure.microsoft.com/products/devops/" target="_blank">
+<a href="https://azure.microsoft.com/products/devops/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=azure" height="50"/>
 </a>
 
-<a href="https://www.atlassian.com/software/jira" target="_blank">
+<a href="https://www.atlassian.com/software/jira" target="_blank" style="margin:10px;">
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="50"/>
 </a>
 
-<a href="https://www.eclipse.org/" target="_blank">
+<a href="https://www.eclipse.org/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=eclipse" height="50"/>
 </a>
 
-<a href="https://www.jetbrains.com/idea/" target="_blank">
+<a href="https://www.jetbrains.com/idea/" target="_blank" style="margin:10px;">
 <img src="https://skillicons.dev/icons?i=idea" height="50"/>
 </a>
 
