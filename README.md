@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 <!-- 🔵 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!+👋;Hi,+I'm+Gopal+Jagtap;Software+Test+Engineer+with+5%2B+Years+of+Experience;Manual,+API+%26+Automation+Testing+%7C+Banking+%26+NBFC+Domain+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!+👋;Hi,+I'm+Gopal+Jagtap;Software+Test+Engineer+with+5%2B+Years+of+Experience;Manual,+API+,+Automation+Testing+%7C+Banking+%26+NBFC+Domain+Expert" />
 </p>
 
 ---
