@@ -75,6 +75,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GopalJagtapTech&theme=default" />
 
 ---
+---
 
-<!-- 🟢 Footer Wave with Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=blueviolet&color=39FF14&text=Thank%20You%20for%20Visiting!&section=footer&animation=twinkling&textBg=false"/>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GopalJagtapTech&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=false&title_color=58A6FF&text_color=FFFFFF" />
+</p>
+
+---
+<!-- 🔵 Footer Wave with Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=FFFFFF&color=0000FF&text=Thank%20You%20for%20Visiting!&section=footer&animation=twinkling&textBg=false"/>
