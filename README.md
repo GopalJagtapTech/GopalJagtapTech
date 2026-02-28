@@ -106,7 +106,6 @@
 
 </p>
 
----
 
 ## 📂 Featured Project
 
