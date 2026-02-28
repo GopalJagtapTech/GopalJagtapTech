@@ -24,7 +24,6 @@
 📍 Vendor at Bajaj Finserv Pvt. Ltd., Pune.  
 🚀 Passionate about High-Quality Automation Solutions.
 
----
 
 ## 🌐 Connect With Me
 
@@ -43,7 +42,6 @@
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack
 
@@ -66,7 +64,6 @@
 ✔ Extent Reports  
 ✔ Screenshot Capture  
 
----
 
 ## 📊 GitHub Stats
 
@@ -74,8 +71,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GopalJagtapTech&theme=default" />
 
----
----
+
 
 ## 📈 Contribution Graph
 
